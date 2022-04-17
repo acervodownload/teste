@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>Os Melhores Canais de [B][COLOR gold]TV Ao Vivo[/COLOR][/B] em um só Lugar. 
+[COLOR gold]Conteúdos em:[/COLOR]
+[COLOR lime]●[/COLOR] - [COLOR white]Ativo[/COLOR]
+[COLOR gold]●[/COLOR] - [COLOR white]Atualizando[/COLOR]
+[COLOR firebrick]●[/COLOR] - [COLOR white]Inativo[/COLOR]</info>
+</channel> 
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]OPÇÃO[/COLOR] [COLOR gold]24[/COLOR] [COLOR white]HORAS[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>[B][COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR][/B]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR blue]STREAMING[/COLOR][/B] [B][COLOR white]ORIGINAIS[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>[B][COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR][/B]</info>
+</channel>  
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]FILMES[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>Os Melhores [B][COLOR gold]Filmes[/COLOR][/B] em um só Lugar.
+[COLOR gold]Conteúdos em:[/COLOR]
+[COLOR lime]●[/COLOR] - [COLOR white]Ativo[/COLOR]
+[COLOR gold]●[/COLOR] - [COLOR white]Atualizando[/COLOR]
+[COLOR firebrick]●[/COLOR] - [COLOR white]Inativo[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]SÉRIES[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>As Melhores [B][COLOR gold]Séries[/COLOR][/B] em um só Lugar.
+[COLOR gold]Conteúdos em:[/COLOR]
+[COLOR lime]●[/COLOR] - [COLOR white]Ativo[/COLOR]
+[COLOR gold]●[/COLOR] - [COLOR white]Atualizando[/COLOR]
+[COLOR firebrick]●[/COLOR] - [COLOR white]Inativo[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR blue]SÉRIES[/COLOR][/B] [B][COLOR white]ANIMADA[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>As Melhores [B][COLOR gold]Séries Animadas[/COLOR][/B] em um só Lugar. 
+[COLOR gold]Conteúdos em:[/COLOR]
+[COLOR lime]●[/COLOR] - [COLOR white]Ativo[/COLOR]
+[COLOR gold]●[/COLOR] - [COLOR white]Atualizando[/COLOR]
+[COLOR firebrick]●[/COLOR] - [COLOR white]Inativo[/COLOR]</info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]DESENHOS[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>Os Melhores [B][COLOR gold]Desenhos[/COLOR][/B] em um só Lugar.
+[COLOR gold]Conteúdos em:[/COLOR]
+[COLOR lime]●[/COLOR] - [COLOR white]Ativo[/COLOR]
+[COLOR gold]●[/COLOR] - [COLOR white]Atualizando[/COLOR]
+[COLOR firebrick]●[/COLOR] - [COLOR white]Inativo[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR][/B] [B][COLOR white]RÁDIOS FM[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>As Melhores [B][COLOR gold]Rádios FM[/COLOR][/B] em um só Lugar.
+[COLOR gold]Conteúdos em:[/COLOR]
+[COLOR lime]●[/COLOR] - [COLOR white]Ativo[/COLOR]
+[COLOR gold]●[/COLOR] - [COLOR white]Atualizando[/COLOR]
+[COLOR firebrick]●[/COLOR] - [COLOR white]Inativo[/COLOR]</info>
+</channel>    
+  
+<channel>
+<name>[B][COLOR red]●[/COLOR][/B] [B][COLOR white]SOUND[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>[B][COLOR blue]Mega[/COLOR] [COLOR white]TV[/COLOR][/B]</info>
+</channel>    
+  
+</channels>  
